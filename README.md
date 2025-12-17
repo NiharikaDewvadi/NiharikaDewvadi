@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hi, I’m Niharika 👋
 
-<!--
-**NiharikaDewvadi/NiharikaDewvadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a Senior Data Analyst with 4+ years of experience working on survey and operational analytics — turning raw data into clean insights and reliable reporting.
 
-Here are some ideas to get you started:
+### What I do
+- Build dashboards and stakeholder-ready reporting (Power BI, Excel)
+- Work with SQL for data extraction, validation, and analysis
+- Use Python for automation and repeatable data workflows
+- Focus strongly on data quality and standardization
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech I work with
+SQL • Power BI • DAX • Python • Excel • SAS
+
+### Currently learning
+Data engineering concepts (pipelines, better data modeling, scalable workflows)
+
+### Connect with me
+- LinkedIn: https://linkedin.com/in/dewvadi
+- Email: niharika.dewvadi@gmail.com
