@@ -15,5 +15,5 @@ SQL • Power BI • DAX • Python • Excel • SAS
 Data engineering concepts (pipelines, better data modeling, scalable workflows)
 
 ### Connect with me
-- LinkedIn: https://linkedin.com/in/dewvadi
-- Email: niharika.dewvadi@gmail.com
+[LinkedIn](https://linkedin.com/in/dewvadi) · [Email](mailto:niharika.dewvadi@gmail.com)
+
